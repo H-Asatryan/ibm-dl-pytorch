@@ -1,7 +1,7 @@
 # IBM: Deep Learning with Python and PyTorch
 
 
-This repository contains the exercises to the <a href="https://www.edx.org/learn/deep-learning/ibm-deep-learning-with-python-and-pytorch">Deep Learning course</a> by IBM, offered on the edX platform. Here is the course syllabus:
+This repository contains the exercises to the <a href="https://www.edx.org/learn/deep-learning/ibm-deep-learning-with-python-and-pytorch" target="_blank" rel="noopener noreferrer">Deep Learning course</a> by IBM, offered on the edX platform. Here is the course syllabus:
 
 <br>
 <p><strong>Module 1 - Classification</strong></p>
