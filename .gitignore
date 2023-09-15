@@ -4,3 +4,4 @@
 __pycache__/
 
 # Ignore these paired notebooks:
+1. Softmax Regression/pytorch_1_2_Softmax.ipynb

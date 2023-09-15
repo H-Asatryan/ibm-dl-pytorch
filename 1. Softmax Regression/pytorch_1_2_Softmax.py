@@ -14,6 +14,7 @@
 # ---
 
 # Quiz: Softmax Function: Using Lines to Classify Data
+# (simple test commands)
 
 import torch
 
@@ -21,6 +22,7 @@ import torch
 # # Task 1
 
 # + hidden=true
+
 
 
 # + hidden=true
