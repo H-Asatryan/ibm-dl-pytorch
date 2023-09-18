@@ -48,3 +48,33 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 <li>Deep Autoencoders</li>
 </ul>
 <p><strong>Module 7 -Independent Project</strong></p>
+
+
+Here is the detailed program including video lectures and Jupyter Lab exercises:
+
+**Softmax Regression**
+
+- 1.1. Softmax Prediction
+    - Video: <a href="https://youtu.be/E0OeDg-xVqs?si=dRQt1JzrRUJDqQeZ">Softmax</a>
+- 1.2. Softmax Function
+    - Video: <a href="https://youtu.be/znjznjByF6k?si=diTSUB64w8UaZhzN">Softmax Using Lines to Classify Data</a>
+    - Quiz: Softmax Function: Using Lines to Classify Data (4 Questions)
+- 1.3. Softmax PyTorch
+    - Video: <a href="https://youtu.be/UqUlku5bjK0?si=y08eInA0UBuxmNWk">Softmax PyTorch</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_5/5.4softmax_in_one_dimension_v2.ipynb">Softmax Classifier 1</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_6/6.2lab_predicting__MNIST_using_Softmax_v2.ipynb">Softmax Classifier 2</a>
+    - Quiz: Softmax PyTorch (4 Questions)
+
+**Shallow Neural Networks**
+
+- 2.1. Neural Networks in One Dimension
+    - Video: <a href="https://youtu.be/Ne92tLtJQKI?si=JlXqeUOAW7Ufu6_h">What's a Neural Network</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.1_simple1hiddenlayer.ipynb">Neural Networks in One Dimension</a>
+    - Quiz: Neural Networks (4 Questions)
+- 2.2. Neural Networks More Hidden Neurons
+    - Video: <a href="https://youtu.be/PsR15tr14JQ?si=E9UHaE_UmjMXWjlD">More Hidden Neurons</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.2multiple_neurons.ipynb">More Hidden Neurons</a>
+    - Quiz: More Hidden Neurons (1 Question)
+- 2.3. Neural Networks with Multiple Dimension Inputs
+    - Video: <a href="https://youtu.be/JF-gl-x0qZ8?si=7Eew5Hi4DE_ss-k_">Neural Networks with Multiple Dimension Input</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.3xor_v2.ipynb">Multidimensional Neural Network</a>
