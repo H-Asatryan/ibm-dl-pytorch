@@ -50,7 +50,10 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 <p><strong>Module 7 -Independent Project</strong></p>
 
 
-Here is the detailed program including video lectures and Jupyter Lab exercises:
+---
+
+
+*Here is the detailed program including video lectures and Jupyter Lab exercises:*
 
 **Softmax Regression**
 
@@ -78,3 +81,4 @@ Here is the detailed program including video lectures and Jupyter Lab exercises:
 - 2.3. Neural Networks with Multiple Dimension Inputs
     - Video: <a href="https://youtu.be/JF-gl-x0qZ8?si=7Eew5Hi4DE_ss-k_">Neural Networks with Multiple Dimension Input</a>
     - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.3xor_v2.ipynb">Multidimensional Neural Network</a>
+    - Quiz: Neural Networks with Multiple Dimension Inputs (2 Questions)
