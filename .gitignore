@@ -1,7 +1,9 @@
 1. Softmax Regression/data/
+2.4 Multi-Class Neural Networks/data/
 **/.ipynb_checkpoints
 **/.DS_Store
 __pycache__/
 
 # Ignore these paired notebooks:
 1. Softmax Regression/pytorch_1_2_Softmax.ipynb
+2.4 Multi-Class Neural Networks/7.4one_layer_neural_network_MNIST.ipynb
