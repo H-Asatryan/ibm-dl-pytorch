@@ -80,5 +80,12 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Quiz: More Hidden Neurons (1 Question)
 - 2.3. Neural Networks with Multiple Dimension Inputs
     - Video: <a href="https://youtu.be/JF-gl-x0qZ8?si=7Eew5Hi4DE_ss-k_">Neural Networks with Multiple Dimension Input</a>
-    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.3xor_v2.ipynb">Multidimensional Neural Network</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3
+    /Chapter_7/7.3xor_v2.ipynb">Multidimensional Neural Network</a>
     - Quiz: Neural Networks with Multiple Dimension Inputs (2 Questions)
+- 2.4 Multi-Class Neural Networks
+    - Video: <a href="https://youtu.be/K607htnmsBg?si=dnhLoG9KUMMI1ZK7">Multi-Class Neural Networks</a>
+    - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.4one_layer_neural_network_MNIST.ipynb">Multi-Class Neural Networks with MNIST</a>
+    - Quiz: Multi-Class Neural Networks (4 Questions)
+- 2.5. Backpropogation
+    - Video: <a href="https://youtu.be/F3htHtyvMa4?si=IM_iMlsji7srOsqV">Backpropogation</a>
