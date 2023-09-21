@@ -93,3 +93,5 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 - 2.6. Activation Function
     - Video: <a href="https://youtu.be/S3upOk_Tt4U?si=JRI8sJdPeJ0dSWNH">Activation Functions</a>
     - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.5.1activationfuction_v2.ipynb">Activation Function</a>
+    - Lab: Neural Network with Different Activation Functions (no direct link, downloaded from CC Labs)
+    - Quiz: Activation Functions (3 Questions)
