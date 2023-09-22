@@ -99,3 +99,5 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=HYlLWhKlnE4">Deep Neural Networks</a>
     - Lab: Deep Neural Networks (no direct link, downloaded from CC Labs)
     - Quiz: Deep Neural Networks (3 Questions)
+    - Video: <a href="https://www.youtube.com/watch?v=pFoN8bGQn2I">Deeper Neural Networks: nn.ModuleList()</a>
+    - Lab: Deeper Neural Networks: nn.ModuleList() (no direct link, downloaded from CC Labs)
