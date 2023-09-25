@@ -111,3 +111,5 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=36CgpqhgRVM">Neural Networks Initialization Weights</a>
     - Lab: Initialization (no direct link, downloaded from CC Labs)
     - Lab: Initialization Xavier (no direct link, downloaded from CC Labs)
+    - Lab: Initialization He (no direct link, downloaded from CC Labs)
+    - Quiz: Neural Networks Initialization (4 Questions)
