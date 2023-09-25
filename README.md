@@ -106,3 +106,8 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=PYsCF1VSssI">Dropout</a>
     - Lab: Dropout Classification (no direct link, downloaded from CC Labs)
     - Lab: Dropout Regression (no direct link, downloaded from CC Labs)
+    - Quiz: Regression (5 Questions)
+- 3.3. Neural Networks Initialization Weights
+    - Video: <a href="https://www.youtube.com/watch?v=36CgpqhgRVM">Neural Networks Initialization Weights</a>
+    - Lab: Initialization (no direct link, downloaded from CC Labs)
+    - Lab: Initialization Xavier (no direct link, downloaded from CC Labs)
