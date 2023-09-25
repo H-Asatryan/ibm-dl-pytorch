@@ -104,3 +104,5 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Quiz: Deeper Neural Networks: nn.ModuleList() (4 Questions)
 - 3.2. Dropout
     - Video: <a href="https://www.youtube.com/watch?v=PYsCF1VSssI">Dropout</a>
+    - Lab: Dropout Classification (no direct link, downloaded from CC Labs)
+    - 
