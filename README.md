@@ -113,3 +113,6 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: Initialization Xavier (no direct link, downloaded from CC Labs)
     - Lab: Initialization He (no direct link, downloaded from CC Labs)
     - Quiz: Neural Networks Initialization (4 Questions)
+- 3.4. Gradient Descent with Momentum
+    - Video: <a href="https://www.youtube.com/watch?v=vwl3XVuJLR8">Gradient Descent with Momentum</a>
+    - Lab: Momentum with Different Polynomials (no direct link, downloaded from CC Labs)
