@@ -116,3 +116,4 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 - 3.4. Gradient Descent with Momentum
     - Video: <a href="https://www.youtube.com/watch?v=vwl3XVuJLR8">Gradient Descent with Momentum</a>
     - Lab: Momentum with Different Polynomials (no direct link, downloaded from CC Labs)
+    - Lab: Neural Network Momentum (no direct link, downloaded from CC Labs)
