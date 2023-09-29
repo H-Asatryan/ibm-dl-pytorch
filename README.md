@@ -122,3 +122,9 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=190QdEWYsME">Batch Normalization</a>
     - Lab: Batch Normalization (no direct link, downloaded from CC Labs)
     - Quiz: Batch Normalization (3 Questions)
+- 4.1. Convolution
+    - Video: <a href="https://www.youtube.com/watch?v=2nI9gisUcKM">Convolution</a>
+    - Lab: What's Convolution (no direct link, downloaded from CC Labs)
+    - Quiz: Convolution (4 Questions)
+- 4.2. Activation Functions and Max Polling
+    - Video: <a href="https://www.youtube.com/watch?v=sS9e_l6t-NI">Activation Functions and Max Polling</a>
