@@ -118,3 +118,7 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: Momentum with Different Polynomials (no direct link, downloaded from CC Labs)
     - Lab: Neural Network Momentum (no direct link, downloaded from CC Labs)
     - Quiz: Gradient Descent with Momentum (3 Questions)
+- 3.5. Batch Normalization
+    - Video: <a href="https://www.youtube.com/watch?v=190QdEWYsME">Batch Normalization</a>
+    - Lab: Batch Normalization (no direct link, downloaded from CC Labs)
+    - Quiz: Batch Normalization (3 Questions)
