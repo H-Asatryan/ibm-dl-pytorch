@@ -130,3 +130,9 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=sS9e_l6t-NI">Activation Functions and Max Pooling</a>
     - Lab: Activation Function and Max Pooling (no direct link, downloaded from CC Labs)
     - Quiz: Activation Functions and Max Pooling (4 Questions)
+- 4.3. Multiple Input and Output Channels
+    - Video: <a href="https://www.youtube.com/watch?v=KEfbazJ50-E">Multiple Input and Output Channels</a>
+    - Lab: Multiple Input and Output Channels (no direct link, downloaded from CC Labs)
+    - Quiz: Convolutional Neural Network (2 Questions)
+- 4.4. Convolutional Neural Network
+    - Video: <a href="https://www.youtube.com/watch?v=Ew53hutz9gA">Convolutional Neural Network</a>
