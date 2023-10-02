@@ -136,3 +136,6 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Quiz: Convolutional Neural Network (2 Questions)
 - 4.4. Convolutional Neural Network
     - Video: <a href="https://www.youtube.com/watch?v=Ew53hutz9gA">Convolutional Neural Network</a>
+    - Lab: Convolutional Neural Network Simple Example (no direct link, downloaded from CC Labs)
+    - Video: <a href="https://www.youtube.com/watch?v=2dmR7NxW700">Convolutional Neural Network Pt.2</a>
+    - Lab: Convolutional Neural Network MNIST (no direct link, downloaded from CC Labs)
