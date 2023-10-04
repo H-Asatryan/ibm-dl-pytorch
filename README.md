@@ -95,6 +95,9 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.5.1activationfuction_v2.ipynb">Activation Function</a>
     - Lab: Neural Network with Different Activation Functions (no direct link, downloaded from CC Labs)
     - Quiz: Activation Functions (3 Questions)
+
+**Deep Networks**
+
 - 3.1. Deep Neural Networks
     - Video: <a href="https://www.youtube.com/watch?v=HYlLWhKlnE4">Deep Neural Networks</a>
     - Lab: Deep Neural Networks (no direct link, downloaded from CC Labs)
@@ -122,6 +125,9 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=190QdEWYsME">Batch Normalization</a>
     - Lab: Batch Normalization (no direct link, downloaded from CC Labs)
     - Quiz: Batch Normalization (3 Questions)
+
+**Convolutional Neural Network**
+
 - 4.1. Convolution
     - Video: <a href="https://www.youtube.com/watch?v=2nI9gisUcKM">Convolution</a>
     - Lab: What's Convolution (no direct link, downloaded from CC Labs)
@@ -140,3 +146,29 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=2dmR7NxW700">Convolutional Neural Network Pt.2</a>
     - Lab: Convolutional Neural Network MNIST (no direct link, downloaded from CC Labs)
     - Lab: Convolutional Neural Networks with Batch Norms (Honours Only / no direct link)
+- 4.5. Torch Vision Models
+    - Video: <a href="https://www.youtube.com/watch?v=AIVtAiK7Thc">Torch Vision Models</a>
+    - Quiz: Torch Vision Models (4 Questions)
+- 4.6. Graphics Processing Unit
+    - Video: <a href="https://www.youtube.com/watch?v=NdARppZCXtk">Graphics Processing Unit</a>
+    - Obtain an IBM Cloud Feature Code (optional)
+    - Create an IBM Cloud Account
+    - GPU Lab Setup in Watson Studio (optional)
+
+**Autoencoders**
+
+- 5.1. Autoencoders as Matrices
+    - Video: <a href="https://www.youtube.com/watch?v=3lg0jfOln_Y">Autoencoders as Matrices</a>
+    - Lab: Autoencoders as Matrices ((no direct link, 1.0 points possible) 
+    - Quiz: Autoencoders as Matrices (3 Questions)
+- 5.2. Principal Component Analysis (PCA)
+    - Quiz: Principal Component Analysis (2 Questions)
+- 5.3. From PCA to Linear Autoencoders
+    - Quiz: From PCA to Linear Autoencoders (2 Questions)
+- 5.5. Shallow Autoencoders
+    - Quiz: Shallow Autoencoders (2 Questions)
+- 5.6. Deep Autoencoders
+    - Quiz: Deep Autoencoders (2 Questions)
+
+**Peer Review**
+
