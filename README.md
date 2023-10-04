@@ -139,3 +139,4 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: Convolutional Neural Network Simple Example (no direct link, downloaded from CC Labs)
     - Video: <a href="https://www.youtube.com/watch?v=2dmR7NxW700">Convolutional Neural Network Pt.2</a>
     - Lab: Convolutional Neural Network MNIST (no direct link, downloaded from CC Labs)
+    - Lab: Convolutional Neural Networks with Batch Norms (Honours Only / no direct link)
