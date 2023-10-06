@@ -162,6 +162,8 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: Autoencoders as Matrices ((no direct link, 1.0 points possible) 
     - Quiz: Autoencoders as Matrices (3 Questions)
 - 5.2. Principal Component Analysis (PCA)
+    - Video: <a href="https://www.youtube.com/watch?v=Tb4DmWJw_J0">Principal Component Analysis</a>
+    - Lab: Principal Component Analysis (no direct link, downloaded from CC Labs)
     - Quiz: Principal Component Analysis (2 Questions)
 - 5.3. From PCA to Linear Autoencoders
     - Quiz: From PCA to Linear Autoencoders (2 Questions)
