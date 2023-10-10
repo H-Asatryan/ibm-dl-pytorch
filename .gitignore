@@ -3,6 +3,12 @@
 **/.DS_Store
 __pycache__/
 
+# Ignore these data files
+5.2 Principal Component Analysis (PCA)/king_county_house_data.csv
+5.2 Principal Component Analysis (PCA)/pca_model.pt
+5.2 Principal Component Analysis (PCA)/regular_model.pt
+5.2 Principal Component Analysis (PCA)/standardized_model.pt
+
 # Ignore these paired notebooks:
 1. Softmax Regression/pytorch_1_2_Softmax.ipynb
 2.4 Multi-Class Neural Networks/7.4one_layer_neural_network_MNIST.ipynb
