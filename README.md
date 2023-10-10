@@ -168,6 +168,8 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: Calculate eigenvectors for Large Dataset (no direct link, downloaded from CC Labs)
     - Quiz: Principal Component Analysis (2 Questions)
 - 5.3. From PCA to Linear Autoencoders
+    - Video: <a href="https://www.youtube.com/watch?v=jdgYJ75uR7w">From PCA To Autoencoders</a>
+    - Lab: Autoencoder to Principal Component Analysis (no direct link, downloaded from CC Labs)
     - Quiz: From PCA to Linear Autoencoders (2 Questions)
 - 5.5. Shallow Autoencoders
     - Quiz: Shallow Autoencoders (2 Questions)
