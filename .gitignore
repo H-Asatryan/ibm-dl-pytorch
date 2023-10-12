@@ -4,12 +4,8 @@
 __pycache__/
 
 # Ignore these data files
-5.2 Principal Component Analysis (PCA)/king_county_house_data.csv
-5.2 Principal Component Analysis (PCA)/pca_model.pt
-5.2 Principal Component Analysis (PCA)/regular_model.pt
-5.2 Principal Component Analysis (PCA)/standardized_model.pt
-5.2 Principal Component Analysis (PCA)/eigenvalues.pt
-5.2 Principal Component Analysis (PCA)/eigenvectors.pt
+**/*.csv
+**/*.pt
 
 # Ignore these paired notebooks:
 1. Softmax Regression/pytorch_1_2_Softmax.ipynb
