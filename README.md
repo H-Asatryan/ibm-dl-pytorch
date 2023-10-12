@@ -171,7 +171,9 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Video: <a href="https://www.youtube.com/watch?v=jdgYJ75uR7w">From PCA To Autoencoders</a>
     - Lab: Autoencoder to Principal Component Analysis (no direct link, downloaded from CC Labs)
     - Quiz: From PCA to Linear Autoencoders (2 Questions)
-- 5.5. Shallow Autoencoders
+- 5.5. Shallow Autoencoders (no Sec. 5.4 !!!)
+    - Video: <a href="https://www.youtube.com/watch?v=VE8gPYjY5Zw">Shallow Autoencoders</a>
+    - Lab: Shallow Autoencoders. Noise Removal (no direct link, downloaded from CC Labs)
     - Quiz: Shallow Autoencoders (2 Questions)
 - 5.6. Deep Autoencoders
     - Quiz: Deep Autoencoders (2 Questions)
