@@ -176,6 +176,7 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Lab: Shallow Autoencoders. Noise Removal (no direct link, downloaded from CC Labs)
     - Quiz: Shallow Autoencoders (2 Questions)
 - 5.6. Deep Autoencoders
+    - Video: <a href="https://www.youtube.com/watch?v=9dBeacxZhjw">Deep Autoencoders</a>
     - Quiz: Deep Autoencoders (2 Questions)
 
 **Peer Review**
