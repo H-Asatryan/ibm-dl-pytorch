@@ -177,6 +177,9 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
     - Quiz: Shallow Autoencoders (2 Questions)
 - 5.6. Deep Autoencoders
     - Video: <a href="https://www.youtube.com/watch?v=9dBeacxZhjw">Deep Autoencoders</a>
+    - Lab: Deep Autoencoder Noise removal: Manifold (no direct link, downloaded from CC Labs)
+    - Lab: Deep Autoencoder Noise removal: Image (no direct link, downloaded from CC Labs)
+    - Lab: Deep Autoencoder Noise removal: Anomaly Detection (no direct link, downloaded from CC Labs)
     - Quiz: Deep Autoencoders (2 Questions)
 
 **Peer Review**
