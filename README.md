@@ -53,7 +53,7 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 ---
 
 
-*Here is the detailed program including video lectures and Jupyter Lab exercises:*
+*Here is the detailed program including video lectures and Jupyter Lab exercises. All the coding exercises are prepared as Jupyter Notebooks and can be found on the Cognitive Class Labs (CC Labs); some of these notebooks have direct links. The exercises can be solved either locally or using online Jupyter IDEs like CC Labs, IBM Watson Studio or Google Colab.*
 
 **Softmax Regression**
 
@@ -93,59 +93,59 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 - 2.6. Activation Function
     - Video: <a href="https://youtu.be/S3upOk_Tt4U?si=JRI8sJdPeJ0dSWNH">Activation Functions</a>
     - Lab: <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/Template/Version_3/Chapter_7/7.5.1activationfuction_v2.ipynb">Activation Function</a>
-    - Lab: Neural Network with Different Activation Functions (no direct link, downloaded from CC Labs)
+    - Lab: Neural Network with Different Activation Functions
     - Quiz: Activation Functions (3 Questions)
 
 **Deep Networks**
 
 - 3.1. Deep Neural Networks
     - Video: <a href="https://www.youtube.com/watch?v=HYlLWhKlnE4">Deep Neural Networks</a>
-    - Lab: Deep Neural Networks (no direct link, downloaded from CC Labs)
+    - Lab: Deep Neural Networks
     - Quiz: Deep Neural Networks (3 Questions)
     - Video: <a href="https://www.youtube.com/watch?v=pFoN8bGQn2I">Deeper Neural Networks: nn.ModuleList()</a>
-    - Lab: Deeper Neural Networks: nn.ModuleList() (no direct link, downloaded from CC Labs)
+    - Lab: Deeper Neural Networks: nn.ModuleList()
     - Quiz: Deeper Neural Networks: nn.ModuleList() (4 Questions)
 - 3.2. Dropout
     - Video: <a href="https://www.youtube.com/watch?v=PYsCF1VSssI">Dropout</a>
-    - Lab: Dropout Classification (no direct link, downloaded from CC Labs)
-    - Lab: Dropout Regression (no direct link, downloaded from CC Labs)
+    - Lab: Dropout Classification
+    - Lab: Dropout Regression
     - Quiz: Regression (5 Questions)
 - 3.3. Neural Networks Initialization Weights
     - Video: <a href="https://www.youtube.com/watch?v=36CgpqhgRVM">Neural Networks Initialization Weights</a>
-    - Lab: Initialization (no direct link, downloaded from CC Labs)
-    - Lab: Initialization Xavier (no direct link, downloaded from CC Labs)
-    - Lab: Initialization He (no direct link, downloaded from CC Labs)
+    - Lab: Initialization
+    - Lab: Initialization Xavier
+    - Lab: Initialization He
     - Quiz: Neural Networks Initialization (4 Questions)
 - 3.4. Gradient Descent with Momentum
     - Video: <a href="https://www.youtube.com/watch?v=vwl3XVuJLR8">Gradient Descent with Momentum</a>
-    - Lab: Momentum with Different Polynomials (no direct link, downloaded from CC Labs)
-    - Lab: Neural Network Momentum (no direct link, downloaded from CC Labs)
+    - Lab: Momentum with Different Polynomials
+    - Lab: Neural Network Momentum
     - Quiz: Gradient Descent with Momentum (3 Questions)
 - 3.5. Batch Normalization
     - Video: <a href="https://www.youtube.com/watch?v=190QdEWYsME">Batch Normalization</a>
-    - Lab: Batch Normalization (no direct link, downloaded from CC Labs)
+    - Lab: Batch Normalization
     - Quiz: Batch Normalization (3 Questions)
 
 **Convolutional Neural Network**
 
 - 4.1. Convolution
     - Video: <a href="https://www.youtube.com/watch?v=2nI9gisUcKM">Convolution</a>
-    - Lab: What's Convolution (no direct link, downloaded from CC Labs)
+    - Lab: What's Convolution
     - Quiz: Convolution (4 Questions)
 - 4.2. Activation Functions and Max Pooling
     - Video: <a href="https://www.youtube.com/watch?v=sS9e_l6t-NI">Activation Functions and Max Pooling</a>
-    - Lab: Activation Function and Max Pooling (no direct link, downloaded from CC Labs)
+    - Lab: Activation Function and Max Pooling
     - Quiz: Activation Functions and Max Pooling (4 Questions)
 - 4.3. Multiple Input and Output Channels
     - Video: <a href="https://www.youtube.com/watch?v=KEfbazJ50-E">Multiple Input and Output Channels</a>
-    - Lab: Multiple Input and Output Channels (no direct link, downloaded from CC Labs)
+    - Lab: Multiple Input and Output Channels
     - Quiz: Convolutional Neural Network (2 Questions)
 - 4.4. Convolutional Neural Network
     - Video: <a href="https://www.youtube.com/watch?v=Ew53hutz9gA">Convolutional Neural Network</a>
-    - Lab: Convolutional Neural Network Simple Example (no direct link, downloaded from CC Labs)
+    - Lab: Convolutional Neural Network Simple Example
     - Video: <a href="https://www.youtube.com/watch?v=2dmR7NxW700">Convolutional Neural Network Pt.2</a>
-    - Lab: Convolutional Neural Network MNIST (no direct link, downloaded from CC Labs)
-    - Lab: Convolutional Neural Networks with Batch Norms (Honours Only / no direct link)
+    - Lab: Convolutional Neural Network MNIST
+    - Lab: Convolutional Neural Networks with Batch Norms (Honours Only)
 - 4.5. Torch Vision Models
     - Video: <a href="https://www.youtube.com/watch?v=AIVtAiK7Thc">Torch Vision Models</a>
     - Quiz: Torch Vision Models (4 Questions)
@@ -159,28 +159,30 @@ This repository contains the exercises to the <a href="https://www.edx.org/learn
 
 - 5.1. Autoencoders as Matrices
     - Video: <a href="https://www.youtube.com/watch?v=3lg0jfOln_Y">Autoencoders as Matrices</a>
-    - Lab: Autoencoders as Matrices ((no direct link, 1.0 points possible) 
+    - Lab: Autoencoders as Matrices (1.0 points possible) 
     - Quiz: Autoencoders as Matrices (3 Questions)
 - 5.2. Principal Component Analysis (PCA)
     - Video: <a href="https://www.youtube.com/watch?v=Tb4DmWJw_J0">Principal Component Analysis</a>
-    - Lab: Principal Component Analysis (no direct link, downloaded from CC Labs)
-    - Lab: Preprocessing with Principle Component Analysis (no direct link, downloaded from CC Labs)
-    - Lab: Calculate eigenvectors for Large Dataset (no direct link, downloaded from CC Labs)
+    - Lab: Principal Component Analysis
+    - Lab: Preprocessing with Principle Component Analysis
+    - Lab: Calculate eigenvectors for Large Dataset
     - Quiz: Principal Component Analysis (2 Questions)
 - 5.3. From PCA to Linear Autoencoders
     - Video: <a href="https://www.youtube.com/watch?v=jdgYJ75uR7w">From PCA To Autoencoders</a>
-    - Lab: Autoencoder to Principal Component Analysis (no direct link, downloaded from CC Labs)
+    - Lab: Autoencoder to Principal Component Analysis
     - Quiz: From PCA to Linear Autoencoders (2 Questions)
 - 5.5. Shallow Autoencoders (no Sec. 5.4 !!!)
     - Video: <a href="https://www.youtube.com/watch?v=VE8gPYjY5Zw">Shallow Autoencoders</a>
-    - Lab: Shallow Autoencoders. Noise Removal (no direct link, downloaded from CC Labs)
+    - Lab: Shallow Autoencoders. Noise Removal
     - Quiz: Shallow Autoencoders (2 Questions)
 - 5.6. Deep Autoencoders
     - Video: <a href="https://www.youtube.com/watch?v=9dBeacxZhjw">Deep Autoencoders</a>
-    - Lab: Deep Autoencoder Noise removal: Manifold (no direct link, downloaded from CC Labs)
-    - Lab: Deep Autoencoder Noise removal: Image (no direct link, downloaded from CC Labs)
-    - Lab: Deep Autoencoder Noise removal: Anomaly Detection (no direct link, downloaded from CC Labs)
+    - Lab: Deep Autoencoder Noise removal: Manifold
+    - Lab: Deep Autoencoder Noise removal: Image
+    - Lab: Deep Autoencoder Noise removal: Anomaly Detection
     - Quiz: Deep Autoencoders (2 Questions)
 
 **Peer Review**
 
+- 6.1 Shape Classification Assignment
+    - Lab: <a href="https://cocl.us/DL0110EN_Edx_Assignment">Convolutional neural network for shape classification</a>
