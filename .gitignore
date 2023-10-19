@@ -2,6 +2,11 @@
 **/.ipynb_checkpoints
 **/.DS_Store
 __pycache__/
+6 Shape Classification Assignment/circle
+6 Shape Classification Assignment/Quiz
+6 Shape Classification Assignment/square
+6 Shape Classification Assignment/star
+6 Shape Classification Assignment/triangle
 
 # Ignore these data files
 **/*.csv
