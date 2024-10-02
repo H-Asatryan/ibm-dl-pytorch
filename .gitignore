@@ -11,3 +11,6 @@ __pycache__/
 # Ignore these data files
 **/*.csv
 **/*.pt
+
+# Ignore these paired notebooks:
+1. Softmax Regression/pytorch_1_2_Softmax.ipynb
