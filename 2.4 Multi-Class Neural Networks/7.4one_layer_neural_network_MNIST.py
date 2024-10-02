@@ -47,7 +47,7 @@
 # +
 # Import the libraries we need for this lab
 
-# Using the following line code to install the torchvision library
+# Use the following line code to install the torchvision library
 # # !mamba install -y torchvision
 
 import torch 
@@ -85,7 +85,7 @@ def plot_accuracy_loss(training_results):
 #
 
 # +
-# Define a function to plot model parameters
+# Define a function to print model parameters
 
 def print_model_parameters(model):
     count = 0
@@ -240,7 +240,7 @@ model = Net(input_dim, hidden_dim, output_dim)
 #
 
 # +
-# Print the parameters for model
+# Print the parameters of the model
 
 print_model_parameters(model)
 # -
